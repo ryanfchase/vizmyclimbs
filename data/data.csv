@@ -1,0 +1,334 @@
+ID,Name,Grade,Feet,Climb Type,Send Type,Date,Send,Trip ID,Location,Area,Partners,Notes
+OID-001,Truculence,5.6,40,Sport,Lead,2-11-2019,y,TID-001,New Jack City,Boy Scout Wall,"Ann, Kami",
+OID-002,Unleash the Dragon (aka There Goes the Neighborhood),5.7,40,Sport,Lead,2-11-2019,y,TID-001,New Jack City,Boy Scout Wall,"Ann, Kami",lacks bolts!
+OID-003,Ivy Alice,5.7,35,Sport,Lead,2-11-2019,y,TID-001,New Jack City,Boy Scout Wall,"Ann, Kami",high first bolt
+OID-004,Left,5.8,90,Sport,TR,2-24-2019,y,TID-002,Point Dume,Face,"Ann, Livia, Noah",
+OID-005,Center,5.8,90,Sport,TR,2-24-2019,y,TID-002,Point Dume,Face,"Ann, Livia, Noah",
+OID-006,South Face Left,5.10B,80,Sport,TR,2-24-2019,y,TID-002,Point Dume,South Face,"Ann, Livia, Noah",
+OID-007,Truculence,5.6,40,Sport,Lead,5-27-2019,y,TID-003,New Jack City,Boy Scout Wall,"Rebecca, Amanda, Adelaide, Ellen",
+OID-008,Unleash the Dragon (aka There Goes the Neighborhood),5.7,40,Sport,Lead,5-27-2019,y,TID-003,New Jack City,Boy Scout Wall,"Rebecca, Amanda, Adelaide, Ellen",
+OID-009,Ivy Alice,5.7,35,Sport,Lead,5-27-2019,y,TID-003,New Jack City,Boy Scout Wall,"Rebecca, Amanda, Adelaide, Ellen",
+OID-010,Girl Scout Cookies,5.7,50,Sport,Lead,5-27-2019,y,TID-003,New Jack City,Boy Scout Wall,"Rebecca, Amanda, Adelaide, Ellen","Messed up gear... Tried to clip biners into bolt, not enough room. Should have just used rap rings. RIP spilled beer and ripped mesh."
+OID-011,Husker,5.6,60,Sport,TR,5-27-2019,y,TID-003,New Jack City,Caprica,"Rebecca, Ellen",Walk to top and set up anchor
+OID-012,Apollo,5.5,60,Sport,TR,5-27-2019,y,TID-003,New Jack City,Caprica,"Rebecca, Ellen",Shares an anchor with Husker
+OID-013,Left,5.8,90,Sport,TR,7-13-2019,y,TID-004,Point Dume,Face,"Emily, Adelaide",SO packed. Terrible time parking. Got nervous setting up and tangled rope on throw.
+OID-014,Powder Puff Girls,5.9,40,Sport,Lead,8-3-2019,y,TID-005,Malibu Creek State Park,Power Wall,"Ann, Cole, Alex Chung, J.D., Adelaide",Scary high move before first clip to good hueco. It's all about getting a high left foot. Third clip is a little spooky but better mobility as you move right of the hueco.
+OID-015,Electric Eye,5.10C,40,Sport,TR,8-3-2019,n,TID-005,Malibu Creek State Park,Power Wall,"Ann, Cole, Alex Chung, J.D., Adelaide","Carried up the wall but beta was good once it was discovered! Beta: Boulder up the first few moves until you get to the last left hueco. Find a mono or a nub to get you to a left-hand pocket with thumb catch, both chalked. Right hand slips into a deep 3.5 finger undercling pocket. Flag right for a throw to a high left undercling pinch. Switch feet for a balanced throw to 4-pad right hand crimp. Get scrunched up to a big throw for a nice jug to the big hueco up top. Fight your way to the finish over the lip."
+OID-016,Skyline Pillar,5.7,40,Sport,Lead,8-7-2019,y,TID-006,Holcomb Valley Pinnacles,Doc Holliday Wall,Mark,Doable!
+OID-017,Pistol Pete,5.10A/B,80,Sport,Lead,8-7-2019,n,TID-006,Holcomb Valley Pinnacles,Doc Holliday Wall,Mark,"Skipped the bottom slab in favor of scramble... still going to count it as 80ft climb. Used the juggy escape, need to keep working this wall to improve."
+OID-018,Bum Steer,5.10A,60,Sport,Lead,8-7-2019,y,TID-006,Holcomb Valley Pinnacles,Claim Jumper Wall,Mark,
+OID-019,Bobbing for Ear Snax,5.9,80,Trad,Follow,8-7-2019,y,TID-006,Holcomb Valley Pinnacles,Claim Jumper Wall,Mark,Mark lead and placed gear
+OID-020,Claim Jumper,5.10A,60,Sport,Lead,8-7-2019,n,TID-006,Holcomb Valley Pinnacles,Claim Jumper Wall,Mark,Incomplete. Stopped at Crux (took some big falls!)
+OID-021,Claim Jumper,5.8,80,Sport,TR,8-7-2019,n,TID-006,Holcomb Valley Pinnacles,Claim Jumper Wall,Mark,Second attempt. So so so weak. Used crack system on left to avoid crux
+OID-022,Green Goblin,5.7,50,Trad,TR,8-7-2019,n,TID-006,Holcomb Valley Pinnacles,Claim Jumper Wall,Mark,"Chimney crack. Desparate struggle up, lots of tries. Overexertion caused trigger finger at the top. Would like to avoid that in future."
+OID-023,Becky Route,5.9+,100,Trad,Follow,8-12-2019,n,TID-007,Pine Creek Canyon,Mustache Wall,"Ann, Mark",Fell twice on crimp move with high feet. Passed it by reading the route and committing until found a jug.
+OID-024,Surrealistic Pillar,5.7,270,Trad,Follow,8-13-2019,y,TID-007,Lover's Leap,Lower Buttress,"Ann, Mark","First multi-pitch ever. Nice dikes, easy climbing. Minimal usage of cracks save for feet here and there."
+OID-025,Corrugation Corner,5.7,300,Trad,Follow,8-13-2019,y,TID-007,Lover's Leap,Main Wall,"Ann, Mark",Very clean climbing. Few technical moves save for chimneys and beached whale. Brought TOO much water!!!
+OID-026,The Groove,5.8,150,Trad,Follow,8-13-2019,y,TID-007,Lover's Leap,Lower Buttress,Mark,"Lie-back to shenanigans for the first move. Lots of mantle moves, good practice and confidence booster. One move that I just barely could reach my fingers around."
+OID-027,Bear's Reach,5.7,400,Trad,Follow,8-14-2019,y,TID-007,Lover's Leap,East Wall,"Ann, Mark",Don't even remember the reach! Lots of fun moves with good opportunity for technical engagement
+OID-028,Farce,5.5,200,Trad,Follow,8-14-2019,n,TID-007,Lover's Leap,Lower Buttress,"Ann, Mark","Tricky start that requires a left hand jam, closely followed by a right fist jam, then somehow move feet up and throw for a better hold up top."
+OID-029,Shiela,5.10B,180,Trad,Follow,8-15-2019,n,TID-007,Pine Creek Canyon,Pratt's Crack,"Ann, Mark",Not a send. Pulled up the wall by Mark. Good hotbed of jamming techniques.
+OID-030,Slot Machine,5.8+,300,Trad,Follow,8-23-2019,n,TID-008,Squamish,Bulletheads,Mark,"Fell off bottom few times, but good send up to the top."
+OID-031,Piece of Pie,5.8,50,Trad,Follow,8-23-2019,n,TID-008,Squamish,Crag X,Mark,Super awesome hand/fist jam line ... would have sent if I didn't get tired at the top of the crack.
+OID-032,Centre Street,5.10C,30,Trad,Follow,8-23-2019,n,TID-008,Squamish,Crag X,Mark,I think we only did the top third of this climb.
+OID-033,Picket Line,5.9-,100,Trad,Follow,8-23-2019,n,TID-008,Squamish,Boulder Gulley,Mark,Somehow fell towards the top or middle? I think foot slipped out of a stem. We also probably didn'ta ctually do Picket Line. More likely something  more to the right.
+OID-034,Dirty Little White Boys,5.10B,150,Trad,Follow,8-24-2019,n,TID-008,Squamish,Apron,"Mark, Arial",Hardeset slab I've ever done. Had to really work on it to progress. Escaped to RBTL halfway up pitch 1
+OID-035,Read Between the Lines,5.10-,80,Trad,Follow,8-24-2019,n,TID-008,Squamish,Apron,"Mark, Arial","Nice splitter crack, 2nd half of p1 since we had escaped from DLWB."
+OID-036,Star Chek,5.8+,400,Trad,Follow,8-24-2019,y,TID-008,Squamish,Galaxy Buttress,"Mark, Arial",Most photogenic climb ever. Scary exposure on the arete. Can be avoided with good slabwork.
+OID-037,Turkey Dinner,5.7,60,Trad,Follow,8-25-2019,y,TID-008,Squamish,Krack Rock,Mark,Easy peasy! Work the wide at the top
+OID-038,Popsickle,5.7,60,Trad,Follow,8-25-2019,y,TID-008,Squamish,Krack Rock,Mark,"Hard finger crack start, but I found this crack very enjoyable."
+OID-039,Penny Lane,5.9,100,Trad,Follow,8-25-2019,n,TID-008,Squamish,Penny Lane,Mark,Tough moves on finger jams ... but super fun! Had to work it. Would love to come back and send again.
+OID-040,St. Vitus' Dance,5.9,600,Trad,Follow,8-26-2019,n,TID-008,Squamish,Apron,Mark,"Beautiful cracks. I feel like this is my window into the world of beautiful moderates. 3/5 are 5.9 -- my fav climb was P3, just a pure line ending with a scrappy bulge. P4 also had a tough bulge... very difficult for me."
+OID-041,Skywalker,5.8,300,Trad,Follow,8-26-2019,n,TID-008,Squamish,Shannon Falls Area,Mark,"Really diversified climbing. Really special stuff. Big big big bulge fight (""thought-provoking move"" - MP) at the top of P3. P2 also had this crack line that was intimidating, but once you figure out the rhythm it goes (""The Flume"")"
+OID-042,Skyline Pillar,5.7,40,Sport,Follow,9-9-2019,n,TID-009,Holcomb Valley Pinnacles,Doc Holliday Wall,"Amanda, Enrico, Adelaide","Fell at the bottom. Felt kind of weak, probably because I haven't really pulled on crimps in a long time."
+OID-043,Pistol Pete,5.10A/B,80,Sport,Follow,9-9-2019,n,TID-009,Holcomb Valley Pinnacles,Doc Holliday Wall,"Amanda, Enrico, Adelaide",Bottom slab was really fun! Didn't escape the route this time. Got stuck/pumped at the same part. Just need to find an unchalked hand that allows you to pistol squat up to a jug.
+OID-044,Coyotes at Sunset,5.8,70,Sport,Lead,9-9-2019,y,TID-009,Holcomb Valley Pinnacles,Coyote Crag,"Amanda, Enrico, Adelaide",Good re-intro to lead head.
+OID-045,Bye Crackie,5.7,60,Sport,TR,9-9-2019,y,TID-009,Holcomb Valley Pinnacles,Coyote Crag,"Amanda, Enrico, Adelaide",Was able to try out some dihedral action via TR
+OID-046,Claim Jumper,5.10A,80,Sport,TR,9-9-2019,y,TID-009,Holcomb Valley Pinnacles,Claim Jumper Wall,"Amanda, Enrico, Adelaide","Felt so much more solid on this one. It felt like my body was ready to crush. Worked my way around the crux again, but dialing in the sequence for sure."
+OID-047,Skyline Pillar,5.7,40,Sport,Lead,9-15-2019,y,TID-010,Holcomb Valley Pinnacles,Doc Holliday Wall,Ann,
+OID-048,Skyline Pillar,5.7,40,Sport,Lead,9-15-2019,y,TID-010,Holcomb Valley Pinnacles,Doc Holliday Wall,Ann,
+OID-049,Skyline Pillar,5.7,40,Sport,TR,9-15-2019,y,TID-010,Holcomb Valley Pinnacles,Doc Holliday Wall,Ann,Approach shoe send
+OID-050,Bacon Taco,5.10A,40,Sport,TR,9-15-2019,n,TID-010,Holcomb Valley Pinnacles,Gunsmoke Wall,Ann,Got yucked up on bad beta trying to follow chalk. Just use flakes!
+OID-051,Quick on the Draw,5.10D,60,Sport,TR,9-15-2019,n,TID-010,Holcomb Valley Pinnacles,Doc Holliday Wall,Ann,"Start right foot on dish, work left foot to starting rail. Use bad sidepull to cross feet and make your way to a knob. Use the knob to work back right to a worse knob. Not bad climbing after that section."
+OID-052,Coyotes at Sunset,5.8,70,Sport,Lead,9-21-2019,y,TID-011,Holcomb Valley Pinnacles,Coyote Crag,Ann,
+OID-053,Golden Poodle,5.9+,75,Sport,Lead,9-21-2019,n,TID-011,Holcomb Valley Pinnacles,Coyote Crag,Ann,
+OID-054,Bye Crackie,5.7,60,Sport,TR,9-21-2019,y,TID-011,Holcomb Valley Pinnacles,Coyote Crag,Ann,Just needed to find the beta! Scary lead over the crux.
+OID-055,Claim Jumper,5.10A,80,Sport,Lead,9-22-2019,n,TID-012,Holcomb Valley Pinnacles,Claim Jumper Wall,Ann,"Deciding that the best way forward is just to use the crack on the left. I was able to use the crux to clip the crux-bolt, but it was a close call. I couldn't progress further from that point."
+OID-056,Bum Steer,5.10A,60,Sport,Lead,9-22-2019,n,TID-012,Holcomb Valley Pinnacles,Claim Jumper Wall,Ann,Could have gotten the send if I went left instead of right. This crag is too zig-zaggy
+OID-057,Lady Luck,5.9,40,Sport,Lead,9-22-2019,y,TID-012,Holcomb Valley Pinnacles,Claim Jumper Wall,Ann,Fun lead! Kinda scary topout.
+OID-058,Bye Crackie,5.7,60,Sport,Lead,10-3-2019,y,TID-013,Holcomb Valley Pinnacles,Coyote Crag,"Louven, Ellen",
+OID-059,Coyotes at Sunset,5.8,70,Sport,Lead,9-21-2019,y,TID-013,Holcomb Valley Pinnacles,Coyote Crag,"Louven, Ellen",
+OID-060,Gold Standard,5.6,80,Sport,Lead,9-21-2019,y,TID-013,Holcomb Valley Pinnacles,Gold Wall,"Louven, Ellen",Great easy lead. Fun for beginner leaders
+OID-061,Gold Standard,5.6,80,Sport,TR,9-22-2019,y,TID-013,Holcomb Valley Pinnacles,Gold Wall,"Louven, Ellen",
+OID-062,Pistol Pete,5.10A/B,80,Sport,Lead,9-22-2019,n,TID-013,Holcomb Valley Pinnacles,Doc Holliday Wall,"Louven, Ellen",
+OID-063,Claim Jumper,5.10A,80,Sport,TR,9-22-2019,n,TID-013,Holcomb Valley Pinnacles,Claim Jumper Wall,"Louven, Ellen",
+OID-064,Fever Pitch,5.3,30,Sport,Free Solo,9-22-2019,y,TID-013,Holcomb Valley Pinnacles,Claim Jumper Wall,"Louven, Ellen",
+OID-065,Bacon Taco,5.10A,40,Sport,TR,9-22-2019,n,TID-013,Holcomb Valley Pinnacles,Gunsmoke Wall,"Louven, Ellen",Almost able to send this and perhaps lead it! Just need to lock down beta from below
+OID-066,University of Santa Clara Practice Climb 1,5.8,70,Sport,Lead,10-6-2019,y,TID-014,Castle Rock,Summit Rock,"Louven, Phoebe, Elizabeth, Ann",So much bird poop. High sand to stemming ratio. Good vertical but not my favorite asthetic.
+OID-067,University of Santa Clara Practice Climb 2,5.7,40,Sport,Lead,10-6-2019,y,TID-014,Castle Rock,Summit Rock,"Louven, Phoebe, Elizabeth, Ann",Strange start if you don't know how to progress up. Move around the outside to the left and stem your way up between the spire and the wall.
+OID-068,Wide Crack,5.7,40,Sport,TR,10-6-2019,n,TID-014,Castle Rock,Summit Rock,"Louven, Phoebe, Elizabeth, Ann",Fun little opportunity to heel-toe cam your way up a decent crack.
+OID-069,Bolt Filcher,5.10D,50,Sport,TR,10-6-2019,n,TID-014,Castle Rock,Summit Rock,"Louven, Phoebe, Elizabeth, Ann","Boulder move to start, slab your way up some bad feet and over a menacing bulge."
+OID-070,Organ Grinder,5.8+,40,Sport,Lead,10-11-2019,y,TID-015,Pinnacles NP,Upper Crust,Phoebe,
+OID-071,Sound Chaser,5.10A,60,Sport,Lead,10-11-2019,n,TID-015,Pinnacles NP,Upper Crust,Phoebe,"Fun problem with switchbacks. Crux is at bottom, but also getting to the right. Needs drag protection."
+OID-072,Wee Little One,5.8,50,Sport,Lead,10-11-2019,y,TID-015,Pinnacles NP,Tourist Trap,Phoebe,We found the anchors before we found the climb. Fun and short.
+OID-073,Gimpenator,5.8,83,Sport,Lead,10-25-2019,y,TID-016,Pine Creek Canyon,Mustache Wall,Ann,Weird clip placements but apparently a good warmup.
+OID-074,Becky Route,5.9+,100,Sport,TR,10-25-2019,y,TID-016,Pine Creek Canyon,Mustache Wall,Ann,Super solid flow!!! Need to lead and clean up.
+OID-075,Badassitude,5.8,100,Sport,Lead,10-26-2019,y,TID-016,Owens River Gorge,Triple Play Cliff,Ann,"Great beginner lead, give 'em a scare."
+OID-076,Bill's Little Black Book,5.8,100,Sport,Lead,10-26-2019,y,TID-016,Owens River Gorge,Triple Play Cliff,Ann,Use a hand jam to get you past the weird start. Much better than lieback. Thought provoking.
+OID-077,Gorgeous,5.10B,80,Sport,TR,10-26-2019,n,TID-016,Owens River Gorge,Gorgeous Towers,Ann,Slick at the bottom! Fell at second bolt on TR.
+OID-078,Hot Pink Socks,5.9+,115,Sport,TR,10-26-2019,n,TID-016,Owens River Gorge,All You Can Eat,Ann,Balancy crux is impossible. No idea how to do it. Had to cheat by pulling on the hangar.
+OID-079,P.D. Time,5.7,40,Sport,Lead,10-27-2019,n,TID-016,Owens River Gorge,Lower Elbow Room,Ann,Go left! You'll be grateful.
+OID-080,P.D. Time,5.7,40,Sport,Lead,10-27-2019,y,TID-016,Owens River Gorge,Lower Elbow Room,Ann,Confidence boost.
+OID-081,Pet Trackers,5.10A,40,Sport,TR,10-27-2019,y,TID-016,Owens River Gorge,Lower Elbow Room,Ann,Bouldery start is a confidence booster.
+OID-082,Slip 'N Slide,5.9,115,Sport,Lead,10-27-2019,y,TID-016,Owens River Gorge,Lower Elbow Room,Ann,Most fun moderate in the Upper Gorge. Wild ride the whole way up.
+OID-083,Imprisoned Behind Lies,5.6,85,Sport,Lead,10-28-2019,y,TID-016,Owens River Gorge,Negress Wall,Ann,Slippery bottom. Traverse at the top. Bad time cleaning via lowering.
+OID-084,High Seas,5.8,75,Sport,Lead,10-28-2019,y,TID-016,Owens River Gorge,Warm Up Wall,Ann,"Sustained climbing, great holds all the way up."
+OID-085,Coyotes at Sunset,5.8,70,Sport,Lead,11-1-2019,y,TID-017,Holcomb Valley Pinnacles,Coyote Crag,Ann,
+OID-086,Pistol Pete,5.10A/B,80,Sport,Lead,11-1-2019,n,TID-017,Holcomb Valley Pinnacles,Doc Holliday Wall,Ann,So close to sending!!!!! Just gotta remember the beta going up to the last bolt.
+OID-087,One Armed Bandit,5.10A,65,Sport,Lead,11-1-2019,n,TID-017,Holcomb Valley Pinnacles,Claim Jumper Wall,Ann,RIP draw. You will be missed.
+OID-088,Gold Standard,5.6,80,Sport,Follow,11-2-2019,y,TID-017,Holcomb Valley Pinnacles,Golden Wall,Elizabeth,
+OID-089,Bishops Terrace,5.8,150,Trad,Follow,11-4-2019,y,TID-018,Yosemite NP,Church Bowl,Mark,Very classic. Get here early.
+OID-090,The Nutcracker Suite,5.9,500,Trad,Follow,11-4-2019,n,TID-018,Yosemite NP,Manure Pile Buttress,Mark,Bailed on the 5.9 variation's backwards offwidth. Seriously fun climb.
+OID-091,Jamcrack,5.8,80,Trad,TR,11-4-2019,y,TID-018,Yosemite NP,Manure Pile Buttress,Mark,Getting ready for trad leading
+OID-092,Jamcrack,5.8,80,Trad,Lead,11-4-2019,y,TID-018,Yosemite NP,Sunnyside Bench,Mark,First trad lead!!!!!
+OID-093,Jamcrack,5.8,150,Trad,Switching Leads,11-5-2019,y,TID-018,Yosemite NP,Sunnyside Bench,Mark,"P1 lead, P2 follow"
+OID-094,Sacherer Cracker,5.10A,150,Trad,Follow,11-5-2019,n,TID-018,Yosemite NP,"Southwest Base, El Capitan",Mark,Grungy offwidth. Learned how to chicken wing.
+OID-095,Pine Line,5.7,70,Trad,Lead,11-5-2019,y,TID-018,Yosemite NP,"Southwest Base, El Capitan",Mark,"Nice fingers, a little slippery"
+OID-096,Super Slide,5.9,500,Trad,Switch Lead,11-6-2019,y,TID-018,Yosemite NP,Western Royal Arches,Mark,P1 lead. Should have taken the slightly scarier dirty crack up the direct line. P2 - P5 follow. I felt very strong as I wanted to try and make up for lost time on the lead.
+OID-097,Swan Slab Gully,5.6,310,Trad,Lead,11-6-2019,y,TID-018,Yosemite NP,Swan Slab,Elizabeth,First multi-pitch lead!!! Careful on the slippery start of P1.
+OID-098,Bishops Terrace,5.8,150,Trad,Lead,11-7-2019,y,TID-018,Yosemite NP,Church Bowl,"Mark, Elizabeth","First 5.8 send!!! Wow. Almost lost it in the wide section. Slipped and caught my fall with a left fist jam. No feeling quite like it. Climbed down to the ledge, placed another piece, regained my composure, and sent it!"
+OID-099,Catchy,5.10D,100,Trad,Follow,11-7-2019,n,TID-018,Lower Merced River Canyon,Cookie Cliff,"Mark, Elizabeth",Great to work the thin hands and fingers. Getting better at locking off on a finger jam.
+OID-100,Outer Limits,5.10B,120,Trad,Follow,11-7-2019,n,TID-018,Lower Merced River Canyon,Cookie Cliff,"Mark, Elizabeth",Probably my favorite climb of the trip. Beautiful hands but sustained the whole way. Great climb to test your endurance 
+OID-101,Trial By Fire,5.8,120,Trad,Follow,11-8-2019,n,TID-018,Yosemite NP,Western Royal Arches,"Mark, Elizabeth","More offwidth, low angle. Still not clean send but at least I was a great deal faster than my last off-width."
+OID-102,Fiddler On The Roof,5.11,500,Trad,Follow,11-25-2019,n,TID-019,Red Rocks NP,Black Velvet Wall,"Kevin (met at camp prev. night, offered to rope gun)",
+OID-103,One Flew Over the Cactus Nest,5.10B,60,Sport,Lead,11-26-2019,n,TID-019,Red Rocks NP,Cactus Massacre,"Ann, Rebecca, Louven",Did not finish. Skipped last 10 ft. Last section had disgusting hands with no feet.
+OID-104,Cactus Pete,5.10A,70,Sport,Lead,11-26-2019,y,TID-019,Red Rocks NP,Cactus Massacre,"Ann, Rebecca, Louven",Very fun climb! Helped regain my lead head after bailing off the prev. climb.
+OID-105,Smooth as Silk,5.8,80,Trad,TR,12-15-2019,n,TID-020,Joshua Tree NP,Freeway Wall,"Ann, Michelle Cho, Kristi",
+OID-106,Thigh Master,5.10A,90,Trad,TR,12-15-2019,n,TID-020,Joshua Tree NP,Freeway Wall,"Ann, Michelle Cho, Kristi",
+OID-107,Birdland,5.7+,600,Trad,Follow,12-21-2019,y,TID-021,Red Rocks NP,Pine Creek,"Ann, Mark",
+OID-108,Atman,5.10a,40,Trad,Lead,12-22-2019,n,TID-021,Red Rocks NP,Yin & Yang Cliff,"Ann, Mark","Wow so scary, hangdoggin all the way!"
+OID-109,Claim Jumpers Special,5.10c,75,Sport,TR,12-22-2019,n,TID-021,Red Rocks NP,Sunny and Steep,"Ann, Mark",
+OID-110,Scorpions,5.11a,50,Sport,TR,12-22-2019,n,TID-021,Red Rocks NP,Sunny and Steep,"Ann, Mark",
+OID-111,Sail Away,5.8-,60,Trad,Follow,12-28-2019,n,TID-022,Joshua Tree NP,Hidden Tower,"Ann, Michelle, her friend",Icy footholds and freezing hands make sad.
+OID-112,Bunny Hop,5.7,40,Sport,Lead,1-11-2020,y,TID-023,Malibu Creek State Park,Toddlers Terrace,"Ann, Adelaide, Justin",
+OID-113,Grabnabber,5.8,85,Sport,Lead,1-11-2020,y,TID-023,Malibu Creek State Park,Toddlers Terrace,"Ann, Adelaide, Justin","Belay from above, woo!"
+OID-114,Grape Ape,5.9,40,Sport,TR,1-25-2020,n,TID-029,Malibu Creek State Park,Planet of the Apes Wall,"Ann, Noah, Mike",
+OID-115,K2,5.9-,40,Sport,Lead,1-25-2020,y,TID-029,Malibu Creek State Park,Mt Gorgeous,"Ann, Noah, Mike",
+OID-116,Gorgeous,5.10A,60,Sport,Lead,1-25-2020,y,TID-029,Malibu Creek State Park,Mt Gorgeous,"Ann, Noah, Mike",
+OID-117,Double Cross,5.7+,95,Trad,Lead,1-31-2020,y,TID-024,Joshua Tree NP,The Old Woman,Mark,
+OID-118,Double Start,5.7,80,Trad,Follow,1-31-2020,n,TID-024,Joshua Tree NP,The Old Woman,Mark,Tried leading it and bailed at the (second) chimney. Need to work on upper boddy strength
+OID-119,Toe Jam,5.7,60,Trad,Lead,1-31-2020,y,TID-024,Joshua Tree NP,The Old Woman,Mark,
+OID-120,Left Ski Track,5.11A,160,Trad,Follow,1-31-2020,n,TID-024,Joshua Tree NP,Intersection Rock,Mark,Fell SO many times just to get past the bottom
+OID-121,Step Across,5.10A,85,Sport,Lead,2-2-2020,y,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-122,Rob's Rambunctious Ride,5.9,75,Sport,Lead,2-2-2020,n,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",Has a weird secion where the route becomes confusing. The way that I chose had a tough undercling but eases up quickly.
+OID-123,Welcome to New Jack City,5.10A,60,Sport,TR,2-2-2020,n,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-124,Espresso,5.10C,35,Sport,TR,2-2-2020,n,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-125,Route 66,5.9+,65,Sport,Lead,2-2-2020,y,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-126,Candy O,5.11B,68,Sport,TR,2-2-2020,n,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-127,Descending Opinion,5.11A,60,Sport,TR,2-2-2020,n,TID-025,New Jack City,Raven Rocks,"Rebecca, Marty",
+OID-128,Atman,5.10a,40,Trad,TR,2-6-2020,y,TID-026,Red Rocks NP,Yin & Yang Cliff,Mark,
+OID-129,Claim Jumpers Special,5.10C,75,Sport,Lead,2-6-2020,n,TID-026,Red Rocks NP,Sunny and Steep,Mark,
+OID-130,Turtle Wax,5.11B,50,Sport,TR,2-6-2020,n,TID-026,Red Rocks NP,Sunny and Steep,Mark,
+OID-131,Group Therapy,5.7,755,Trad,Lead,2-7-2020,n,TID-026,Red Rocks NP,Angel Food Wall,Mark,Lead all but the chimney pitch. READ THE TOPO
+OID-132,Straight Shooter,5.9+,60,Trad,TR,2-8-2020,n,TID-026,Red Rocks NP,Straight Shooter Wall,Mark,Thin fingers!!!
+OID-133,Sidewinder,5.11,40,Sport,TR,2-8-2020,n,TID-026,Red Rocks NP,Straight Shooter Wall,Mark,Halfway there
+OID-134,Freak Out,5.7,60,Trad,Lead,2-8-2020,y,TID-026,Red Rocks NP,Straight Shooter Wall,Mark,Almost bailed! PG13
+OID-135,Straight Shooter,C1,60,Aid,Lead,2-8-2020,y,TID-026,Red Rocks NP,Straight Shooter Wall,Mark,First aid climb! 40 minutes is my record to beat.
+OID-136,Bonaire,5.9,80,Sport,Lead,2-9-2020,y,TID-026,Red Rocks NP,Black Corridor,Mark,
+OID-137,Bon Ez,5.9+,80,Sport,Lead,2-9-2020,y,TID-026,Red Rocks NP,Black Corridor,Mark,
+OID-138,Vagabonds,5.10A,70,Sport,Lead,2-9-2020,y,TID-026,Red Rocks NP,Black Corridor,Mark,
+OID-139,Crude Boys,5.10D,50,Sport,TR,2-9-2020,n,TID-026,Red Rocks NP,Black Corridor,Mark,
+OID-140,The De-Nogginizer,5.11A,75,Sport,TR,2-9-2020,n,TID-026,Red Rocks NP,Hunter S. Thompson Dome,Mark,Very fun. Just need to increase crimp strength to work a bad crimp crux at the bottom.
+OID-141,Abitafun,5.9,105,Sport,Lead,2-15-2020,y,TID-027,Owens River Gorge,Pub Wall,Ann,Tough bottom section. Blew the flash and onsite lol.
+OID-142,Abitarot,5.10A,95,Sport,Lead,2-15-2020,n,TID-027,Owens River Gorge,Pub Wall,Ann,Gets real pumpy at the top!
+OID-143,Road To Cala Gonone,5.9,95,Sport,Lead,2-16-2020,y,TID-027,Owens River Gorge,Gorgeous Towers,Ann,"Chossy and scary at the bottom, fun up top!"
+OID-144,Wacked Scenario,5.10B,125,Sport,TR,2-16-2020,n,TID-027,Owens River Gorge,Gorgeous Towers,"Ann, Vladimir","Popped out at the wide section, gotta train my wide skillz!"
+OID-145,Lava Haul,5.10A,110,Sport,Lead,2-16-2020,n,TID-027,Owens River Gorge,Gorgeous Towers,Ann,Blew a foot on the techie slab. Nice pump fighting at the top. So fun!!
+OID-146,Route 66,5.9+,65,Sport,Lead,2-19-2020,n,TID-028,New Jack City,Raven Rocks,Mark,"Five lead falls! The top section requies me to really work the beta. Use jugs to move onto a rail. Left hand finds a jam, move up right foot. Right hand moves up to a jug. Left foot moves up, left hand can move up. Beta: right foot should move up to a scoop right underneath the bolt. Gives better purchase for slotting the left hand into a pocket jug (slopey if not far in enough). Jugs on top for better clipping into anchors."
+OID-147,Welcome to New Jack City,5.10A,60,Sport,TR,2-19-2020,y,TID-028,New Jack City,Raven Rocks,Mark,Probably can lead this now. Terrible hands on top for anchor work.
+OID-148,Step Across,5.10A,85,Sport,Lead,2-19-2020,y,TID-028,New Jack City,Raven Rocks,Mark,
+OID-149,Love Onsite,5.10C,65,Sport,TR,2-19-2020,n,TID-028,New Jack City,Raven Rocks,Mark,Fall at beginning and at mid/end. A bit delicate but I can work it.
+OID-150,Rob's Rambunctious Ride,5.9,75,Sport,TR,2-19-2020,y,TID-028,New Jack City,Raven Rocks,Mark,Footwork getting to the undercling is ... strange.
+OID-151,Espresso,5.10C,10,Sport,TR,2-19-2020,n,TID-028,New Jack City,Raven Rocks,Mark,Got humbled by the footwork here. Not strong enough to make it through the bouldery crux.
+OID-152,Sophie's Choice,5.10A,30,Sport,Lead,2-19-2020,y,TID-028,New Jack City,The Pinnacle,Mark,"Can't reach second clip, had to awkwardly do it from above."
+OID-153,Ten For Two,5.8,60,Sport,Lead,1-18-2020,y,TID-030 ,Lone Mountain,Suburban Crag,Ann,
+OID-154,NLV,5.10B,60,Sport,Lead,1-18-2020,n,TID-030 ,Lone Mountain,Suburban Crag,Ann,"Needed to work a middle section, probably could do with more strength for gripping a bad hold high up left."
+OID-155,Direct TV,5.10A,60,Sport,Lead,1-18-2020,n,TID-030 ,Lone Mountain,Suburban Crag,Ann,"French free on the slab section, gotta work this part."
+OID-156,TV Guide,5.7,75,Sport,TR,1-18-2020,y,TID-030 ,Lone Mountain,Suburban Crag,"Ann, Ellen, Amy Slawson, Sarah Kim",
+OID-157,Never Kiss A Cactus,5.8,70,Sport,TR,1-19-2020,y,TID-030 ,Red Rocks NP,Cactus Massacre,"Ann, Ellen, Amy Slawson, Sarah Kim",
+OID-158,Cactus Pete,5.10A,70,Sport,Lead,1-19-2020,y,TID-030 ,Red Rocks NP,Cactus Massacre,"Ann, Ellen, Amy Slawson, Sarah Kim",
+OID-159,Cactus Hugger,5.10C/D,70,Sport,TR,1-19-2020,n,TID-030 ,Red Rocks NP,Cactus Massacre,"Ann, Ellen, Amy Slawson, Sarah Kim",
+OID-160,One Flew Over the Cactus Nest,5.10B,70,Sport,TR,1-19-2020,y,TID-030 ,Red Rocks NP,Cactus Massacre,"Ann, Ellen, Amy Slawson, Sarah Kim",Yay finally sent! Ready for lead.
+OID-161,Plumbers Crack,V0,25,Boulder,,1-20-2020,y,TID-030 ,Red Rocks NP,Plumber's Crack,"Ann, Ellen, Amy Slawson, Sarah Kim",
+OID-162,Double Cross,5.7+,95,Trad,Lead,2-23-2020,y,TID-031,Joshua Tree NP,The Old Woman,"Ann, Mike",
+OID-163,Toe Jam,5.7,60,Trad,Lead,2-23-2020,y,TID-031,Joshua Tree NP,The Old Woman,"Ann, Mike",
+OID-164,Rob's Rambunctious Ride,5.9,75,Sport,Lead,2-29-2020,y,TID-032,New Jack City,Raven Rocks,"Ann, Daniel, Mike, Noah, Gavin, Paul","Can do the sketchy move, woo!"
+OID-165,Welcome to New Jack City,5.10A,60,Sport,Lead,2-29-2020,n,TID-032,New Jack City,Raven Rocks,"Ann, Daniel, Mike, Noah, Gavin, Paul","Happy to hop on this one on lead, just got confused about betaon the stemmy vert rails. Very doable if committing to the stem"
+OID-166,Step Across,5.10A,85,Sport,TR,2-29-2020,y,TID-032,New Jack City,Raven Rocks,"Ann, Daniel, Mike, Noah, Gavin, Paul",Face-climbing the bulge is very doable.
+OID-167,Love Onsite,5.10C,65,Sport,TR,2-29-2020,y,TID-032,New Jack City,Raven Rocks,"Ann, Daniel, Mike, Noah, Gavin, Paul",ITS READY FOR LEAD
+OID-168,Route 66,5.9+,65,Sport,TR,2-29-2020,y,TID-032,New Jack City,Raven Rocks,"Ann, Daniel, Mike, Noah, Gavin, Paul",Wow.. really felt easier this time around.
+OID-169,Inspect Her Cool Soul,5.9,85,Sport,Lead,3-7-2020,y,TID-033,Echo Cliffs,Tea Room,"Noah, Louven",
+OID-170,Fen Gliddich,5.10A/B,85,Sport,TR,3-7-2020,y,TID-033,Echo Cliffs,Tea Room,"Noah, Louven",
+OID-171,English Breakfast Tea,5.10A,80,Sport,Lead,3-7-2020,y,TID-033,Echo Cliffs,Tea Room,"Noah, Louven",
+OID-172,Toe Jam,5.7,60,Trad,Lead,3-14-2020,y,TID-034,Joshua Tree NP,The Old Woman,"Ann, Noah",
+OID-173,Double Cross,5.7+,95,Trad,Lead,3-14-2020,y,TID-034,Joshua Tree NP,The Old Woman,"Ann, Noah",
+OID-174,The Eye,5.4,150,Trad,Lead,3-14-2020,y,TID-034,Joshua Tree NP,The Old Woman,"Ann, Noah",
+OID-175,Medicine Man,5.7+,40,Sport,TR,7-13-2020,y,TID-035,Holcomb Valley Pinnacles,Thunderbird Wall,"Ann, David, Kevin, Louven",First climb since COVID-19 Lockdown
+OID-176,Nervous Twitch,5.9,50,Sport,TR,7-13-2020,y,TID-035,Holcomb Valley Pinnacles,Thunderbird Wall,"Ann, David, Kevin, Louven",
+OID-177,Thunderbird,5.9,45,Sport,TR,7-13-2020,y,TID-035,Holcomb Valley Pinnacles,Thunderbird Wall,"Ann, David, Kevin, Louven",
+OID-178,Bird of Prey,5.8+,45,Sport,TR,7-13-2020,y,TID-035,Holcomb Valley Pinnacles,Thunderbird Wall,"Ann, David, Kevin, Louven",
+OID-179,Fun Police,5.6,60,Sport,Lead,7-25-2020,y,TID-036,Holcomb Valley Pinnacles,Motherlode Rock,"Ann, Gavin",
+OID-180,Whiptail,5.9,50,Sport,Lead,7-25-2020,y,TID-036,Holcomb Valley Pinnacles,Motherlode Rock,"Ann, Gavin",
+OID-181,Smackdown,5.8,50,Sport,TR,7-25-2020,y,TID-036,Holcomb Valley Pinnacles,Motherlode Rock,"Ann, Gavin",
+OID-182,Wildrose,5.4,40,Sport,Lead,7-25-2020,y,TID-036,Holcomb Valley Pinnacles,Motherlode Rock,"Ann, Gavin",
+OID-183,Blasting Cap,5.7,35,Sport,Lead,7-25-2020,y,TID-036,Holcomb Valley Pinnacles,Motherlode Rock,"Ann, Gavin",
+OID-184,Bob's Bolts,5.4,40,Sport,Lead,9-24-2020,y,TID-037,Maple Canyon,Schoolroom Area,"Ann, Louven",
+OID-185,Chocolate Doobie,5.7+,40,Sport,TR,9-24-2020,y,TID-037,Maple Canyon,Schoolroom Area,"Ann, Louven",
+OID-186,Extra Credit,5.7,30,Sport,Lead,9-24-2020,y,TID-037,Maple Canyon,Schoolroom Area,"Ann, Louven",
+OID-187,Full Moon Monkey,5.8+,70,Sport,Lead,9-25-2020,y,TID-037,Maple Canyon,Orangutan Wall,"Ann, Louven",
+OID-188,Don't Feed the Monkey,5.7,95,Sport,TR,9-25-2020,y,TID-037,Maple Canyon,Orangutan Wall,"Ann, Louven",
+OID-189,That Be Me,5.6,50,Sport,Lead,9-25-2020,y,TID-037,Maple Canyon,Billy the Kid Wall,"Ann, Louven",
+OID-190,I'll Make You Famous,5.7,60,Sport,Lead,9-25-2020,y,TID-037,Maple Canyon,Billy the Kid Wall,"Ann, Louven",
+OID-191,Early Bird Arete,5.8,70,Sport,Lead,9-26-2020,y,TID-037,Maple Canyon,Early Bird Crag,"Ann, Louven",
+OID-192,Return of the Drillslingers,5.8,75,Sport,TR,9-26-2020,y,TID-037,Maple Canyon,Early Bird Crag,"Ann, Louven",
+OID-193,The Chicken Who Didnt,5.9,90,Sport,Lead,9-27-2020,y,TID-037,Maple Canyon,Rd Kill Wall,"Ann, Louven",
+OID-194,Listen To Your Dinner,5.8,70,Sport,TR,9-27-2020,y,TID-037,Maple Canyon,Rd Kill Wall,"Ann, Louven",
+OID-195,Roach On Rye,5.8,40,Sport,Lead,9-27-2020,y,TID-037,Maple Canyon,Rd Kill Wall,"Ann, Louven",
+OID-196,Peterbilt,5.7,100,Sport,TR,9-27-2020,y,TID-037,Maple Canyon,Rd Kill Wall,"Ann, Louven",
+OID-197,East Wall Crack,5.7,50,Trad,TR,10-4-2020,y,TID-038,Stony Point,Nabisco Canyon,"Ann, Ash, Parshav","2 cams, 1 stopper, 1 bolt"
+OID-198,A Midsummer's Night Seam,5.7,35,Sport,Lead,10-18-2020,y,TID-039,Holcomb Valley Pinnacles,Skyy Slab,"Ann, Gavin",
+OID-199,Rotgut,5.8,35,Sport,Lead,10-18-2020,y,TID-039,Holcomb Valley Pinnacles,Skyy Slab,"Ann, Gavin",
+OID-200,Shoot At Will,5.8,45,Sport,Lead,10-18-2020,y,TID-039,Holcomb Valley Pinnacles,Skyy Slab,"Ann, Gavin",
+OID-201,Nervous Twitch,5.9,50,Sport,TR,10-18-2020,y,TID-039,Holcomb Valley Pinnacles,Thunderbird Wall,"Ann, Gavin",
+OID-202,Chimps Ahoy,5.10A,80,Sport,TR,10-24-2020,n,TID-040,Malibu Creek State Park,Sumbling Blocks,"Ann, Louven, Adelaide, Justin",
+OID-203,Tonto,5.5,90,Trad,Lead,11-1-2020,y,TID-041,Red Rocks NP,Ragged Edges Area,Ann,
+OID-204,Ragged Edges,5.8,60,Trad,Lead,11-1-2020,y,TID-041,Red Rocks NP,Ragged Edges Area,Ann,
+OID-205,Poundcake,5.8,40,Sport,Lead,11-2-2020,y,TID-041,Red Rocks NP,Wake-Up Wall,"Ann, Rebecca, Marty",
+OID-206,First Born,5.10b,65,Sport,TR,11-2-2020,n,TID-041,Red Rocks NP,Wake-Up Wall,"Ann, Rebecca, Marty",Really struggled with the crux
+OID-207,Slip 'N Slide,5.9,115,Sport,Lead,11-7-2020,y,TID-042,Owens River Gorge,Lower Elbow Room,"Ann, Gavin, Louven, Elizabeth",
+OID-208,Not Too Stout,5.7,60,Sport,Lead,11-7-2020,y,TID-042,Owens River Gorge,Pub Wall,"Ann, Gavin, Louven, Elizabeth",
+OID-209,Abitafun,5.9,105,Sport,Lead,11-7-2020,y,TID-042,Owens River Gorge,Pub Wall,"Ann, Gavin, Louven, Elizabeth",
+OID-210,Son of Belayer Slayer,5.10a PG13,120,Sport,Lead,11-7-2020,n,TID-042,Owens River Gorge,All You Can Eat,"Ann, Gavin, Louven, Elizabeth",
+OID-211,Cinderella,5.9,60,Sport,Lead,11-7-2020,n,TID-042,Owens River Gorge,All You Can Eat,"Ann, Gavin, Louven, Elizabeth",
+OID-212,Step Right Up,5.8,65,Sport,Lead,11-7-2020,y,TID-042,Owens River Gorge,All You Can Eat,"Ann, Gavin, Louven, Elizabeth",
+OID-213,Wow Is Me,V0,8,Boulder,,11-8-2020,y,TID-042,Happy Boulders,Tom Peter's Slab Area,"Ann, Gavin, Louven, Elizabeth","Overhang, first boulder in ages"
+OID-214,Face I,V0,9,Boulder,,11-22-2020,y,TID-043,Stoney Point,Cap Rock,"Ann, Gavin",Did some easy warm up shenanigans on slant boulder
+OID-215,The Chief,5.5,40,Trad,Lead,11-29-2020,y,TID-044,Joshua Tree NP,Reggie Dome,"Louven, Ellen",I might have done the 5.9 arete finish?
+OID-216,Beginner's Three,5.3,50,Trad,Lead,11-29-2020,y,TID-044,Joshua Tree NP,Intersection Rock,Louven,
+OID-217,Toe Jam,5.7,60,Trad,Lead,11-29-2020,y,TID-044,Joshua Tree NP,Old Woman Face,Louven,
+OID-218,Green Eggs and Ham,5.7,50,Sport,Lead,12-20-2020,y,TID-045,New Jack City,Boy Scout Wall,"Ann, Gavin",
+OID-219,Jack Be Nimble,5.8,75,Sport,Lead,12-20-2020,y,TID-045,New Jack City,Boy Scout Wall,"Ann, Gavin",
+OID-220,Reaching Rayane,5.9,70,Sport,Lead,12-20-2020,y,TID-045,New Jack City,Boy Scout Wall,"Ann, Gavin",
+OID-221,Gorgeous,5.10a,60,Sport,Lead,12-24-2020,y,TID-046,Malibu Creek State Park,Mt Gorgeous,"Ann, Gavin",
+OID-222,Getaway,5.10a,65,Sport,Lead,12-27-2020,n,TID-047,New Jack City,Getaway,"Ann, Gavin",
+OID-223,I Am A Climber And I Vote,5.10a,50,Sport,TR,12-27-2020,y,TID-047,New Jack City,Getaway,"Ann, Gavin",
+OID-224,Ryan Goes to College,5.6,85,Sport,Lead,12-27-2020,y,TID-047,New Jack City,Getaway,"Ann, Gavin",
+OID-225,Route 66,5.9+,65,Sport,Lead,12-27-2020,y,TID-047,New Jack City,Raven Rocks,"Ann, Gavin",
+OID-226,The Chief,5.5,40,Trad,Lead,1-2-2021,y,TID-048,Joshua Tree NP,Reggie Dome,"Ann, Emily",
+OID-227,Speed Bump,5.6,85,Sport,TR,1-2-2021,y,TID-048,Joshua Tree NP,Reggie Dome,"Ann, Emily",
+OID-228,Mother's Milk,5.8,70,Sport,Lead,1-9-2021,y,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin",
+OID-229,Crazy Eights,5.8,85,Sport,Lead,1-9-2021,y,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin",
+OID-230,Squire,5.10c,50,Sport,Lead,1-9-2021,n,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin","Broke the climb into 2 parts, can probably lead clean next time"
+OID-231,Bonaire,5.9,80,Sport,TR,1-10-2021,y,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin",
+OID-232,Burros Don't Gamble,5.10c,80,Sport,TR,1-10-2021,n,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin",
+OID-233,Burros Might Fly,5.10b PG13,70,Sport,TR,1-10-2021,y,TID-049,Red Rocks NP,Hunter S Thompson Dome,"Ann, Gavin",
+OID-234,Dry Spell,5.9,65,Sport,Lead,1-17-2021,y,TID-050,New Jack City,White Streaked Face,"Ann, Louven, Adelaide, Justin",Another great NJC 5.9
+OID-235,You Just Got Jacked,5.10a,65,Sport,Lead,1-17-2021,y,TID-050,New Jack City,White Streaked Face,"Ann, Louven, Adelaide, Justin",Mental crux is reaching to clip as a short person. Top half is airy and fun
+OID-236,Unleash The Dragon (aka There Goes The Neighborhood),5.7,40,Sport,Lead,1-17-2021,y,TID-050,New Jack City,Boy Scout Wall,"Ann, Louven, Adelaide, Justin",
+OID-237,Powder Puff Girls,5.9,40,Sport,Lead,2-6-2021,y,TID-051,Malibu Creek State Park,Power Wall,"Ann, Louven, Adelaide, Justin",
+OID-238,Power Ranger,5.9,40,Sport,TR,2-6-2021,y,TID-051,Malibu Creek State Park,Power Wall,"Ann, Louven, Adelaide, Justin",
+OID-239,Electric Eye,5.10c,40,Sport,TR,2-6-2021,y,TID-051,Malibu Creek State Park,Power Wall,"Ann, Louven, Adelaide, Justin",
+OID-240,Power Station,5.10b,50,Sport,Lead,2-6-2021,y,TID-051,Malibu Creek State Park,Power Wall,"Ann, Louven, Adelaide, Justin",
+OID-241,Seven Grain Arete,V1,10,Boulder,attempt,2-20-2021,n,TID-052,Joshua Tree NP,Stongehenge Boulders,Ann,
+OID-242,Multi Grain,V0,15,Boulder,attempt,2-20-2021,n,TID-052,Joshua Tree NP,Stongehenge Boulders,Ann,
+OID-243,Small World,V-easy,10,Boulder,send,2-20-2021,y,TID-052,Joshua Tree NP,Stongehenge Boulders,Ann,"Extremely happy to snag this one, committing at the top"
+OID-244,Interceptor,V0,15,Boulder,send,2-20-2021,y,TID-052,Joshua Tree NP,Stongehenge Boulders,Ann,
+OID-245,Seven Grain Arete,V1,10,Boulder,attempt,2-27-2021,n,TID-053,Joshua Tree NP,Stongehenge Boulders,Ann,
+OID-246,One-Eyed Jack,V-easy,15,Boulder,send,2-27-2021,y,TID-053,Joshua Tree NP,Stongehenge Boulders,Ann,
+OID-247,Picante Left,V1,10,Boulder,send,3-6-2021,y,TID-054,Kraft Boulders,Picante Sauce,Ann,Really had to work this one but was able to send with a great heel hook beta
+OID-248,The Groove,V1,7,Boulder,send,3-6-2021,y,TID-054,Kraft Boulders,Cube Area,Ann,
+OID-249,I Disagree,V1,12,Boulder,send,3-6-2021,y,TID-054,Kraft Boulders,Bill's Boulder,Ann,
+OID-250,Monkey Crack,V1,20,Boulder,send,3-6-2021,y,TID-054,Kraft Boulders,Monkey Bar Boulder,Ann,
+OID-251,Let's Meetup,5.7,50,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-252,Member Profile,5.7,50,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-253,Safety First,5.6,50,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-254,Count Me In,5.8,60,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-255,Upcoming Meetups,5.10a,60,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-256,Sponsors Wanted,5.9,60,Sport,Lead,3-7-2021,y,TID-054,Red Rocks NP,Meetup Wall,"Ellen, Amy, Kim, Kevin",
+OID-257,The De-Nogginizer,5.11a,75,Sport,TR,3-7-2021,n,TID-054,Red Rocks NP,Hunter S Thompson Dome,"Ann, Rebecca, Marty",Hung/Fell at the 2 cruxes
+OID-258,Tweedle Dee,5.5,40,Trad,Lead,5-26-2021,y,TID-055,Lake Tahoe Area,Trippy Rock,"Ann, Emily, Kevin, Ellen, Amanda, Becca",
+OID-259,Roto Arete,5.9,30,Sport,TR,5-26-2021,y,TID-055,Lake Tahoe Area,Trippy Rock,"Ann, Emily, Kevin, Ellen, Amanda, Becca",
+OID-260,Space Truckin',5.10-,110,Trad,TR,5-29-2021,n,TID-055,Lake Tahoe Area,Eagle Lake Cliff,"Ann, Emily, Mark",
+OID-261,Quest for Glory,5.10d,40,Trad,TR,5-29-2021,n,TID-055,Lake Tahoe Area,Eagle Lake Cliff,"Ann, Emily, Mark","Tried 1st half stem problem, a little bit of pulling the roof"
+OID-262,Contenintal Shelf,v3,8,Boulder,attempt,5-24-2021,n,TID-055,Lake Tahoe Area,Lost In Space,"Emily, Amanda, Kevin",little hand jam situation but tricky to gain
+OID-263,Line Dance,V1+,12,Boulder,attempt,8-8-2021,n,TID-056,Tramway,Dance Floor,"Ann, Gavin",
+OID-264,Waltz,V1,12,Boulder,send,8-8-2021,y,TID-056,Tramway,Dance Floor,"Ann, Gavin",
+OID-265,Hueco Shuffle,V1,13,Boulder,attempt,8-8-2021,n,TID-056,Tramway,Dance Floor,"Ann, Gavin",
+OID-266,Tree Problem,V0-,12,Boulder,send,8-8-2021,y,TID-056,Tramway,Flash Gordon Area,"Ann, Gavin",
+OID-267,Problem A,V0,12,Boulder,send,8-8-2021,y,TID-056,Tramway,Shangri-La,"Ann, Gavin",
+OID-268,Problem B,V1,12,Boulder,attempt,8-8-2021,n,TID-056,Tramway,Dance Floor,"Ann, Gavin",
+OID-269,Crack Horror,5.11b,70,Sport,TR,8-22-2021,n,TID-057,Malibu Creek State Park,Mt Gorgeous,David,
+OID-270,Climate Changed,5.10c/d,70,Sport,Lead,8-22-2021,n,TID-057,Malibu Creek State Park,Mt Gorgeous,David,"Tough start but the rest of the climb was very fun. Crux is at the 4th bolt gaining the hueco/bulge, ended up doing a big throw for the massive jug. Similar big throw at the rail higher up. Awesome climb!!!"
+OID-271,Nightime Shenanigans,5.8,50,Sport,Lead,9-4-2021,y,TID-058,Mt Charleston,Walla Walla Wash,"Ann, Noah, Elizabeth",
+OID-272,Where's my Dog,5.8,50,Sport,Lead,9-4-2021,y,TID-058,Mt Charleston,Walla Walla Wash,"Ann, Noah, Elizabeth",
+OID-273,Lost and Found,5.9+,50,Sport,Lead,9-4-2021,y,TID-058,Mt Charleston,Walla Walla Wash,"Ann, Noah, Elizabeth",
+OID-274,The Hundreth Monkey,5.10a,40,Sport,Lead,9-5-2021,y,TID-058,Mt Charleston,Walla Walla Wash,"Ann, Noah, Elizabeth",
+OID-275,1057,5.10b,55,Sport,Lead,9-4-2021,n,TID-058,Mt Charleston,Yellow Pine,"Ann, Noah, Elizabeth",Hung once iirc
+OID-276,The Priceless Value of Old Friends,5.10a,55,Sport,Lead,9-5-2021,y,TID-058,Mt Charleston,White Pine,"Ann, Noah, Elizabeth",
+OID-277,Asking for a Friend,5.10a/b,55,Sport,Lead,9-5-2021,y,TID-058,Mt Charleston,White Pine,"Ann, Noah, Elizabeth",
+OID-278,Does the Stoke Ever End,5.10c,55,Sport,Lead,9-5-2021,y,TID-058,Mt Charleston,White Pine,"Ann, Noah, Elizabeth",
+OID-279,"Today, We are Thurday!",5.11b,60,Sport,TR,9-5-2021,n,TID-058,Mt Charleston,White Pine,"Ann, Noah, Elizabeth",
+OID-280,Big Flake,5.8,40,Sport,Lead,9-6-2021,y,TID-058,Mt Charleston,Den Of Thieves Area,Ann,
+OID-281,The Harder They Come,5.10c,70,Sport,Lead,9-6-2021,y,TID-058,Mt Charleston,Den Of Thieves Area,Ann,"Trad-stemmy and tough and full of surprises, love it to death"
+OID-282,Gibraltar,v1,9,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-283,Mercy Flush,v2+,10,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-284,Tic Talk,v0+,8,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-285,Tic Talk,v0-1,8,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-286,Playdate,v1,8,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-287,Coco,v2-3,12,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin","Ann sends, so exciting!"
+OID-288,Takin' It to the Ground,V3,10,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-289,Device Ignitor Right,V3,10,Spectator,injured,11-26-2021,n,TID-059,Moes Valley,Sentinel Area,"Ann, Gavin",
+OID-290,Rails of Sand,V1-2,12,Spectator,injured,11-28-2021,n,TID-059,Pioneer Park,Boy Scout Cave,"Ann, Gavin",Per Dylan's suggestion we came here
+OID-291,Power of the Rock Rat,V-easy,10,Spectator,injured,12-5-2021,n,TID-060,Joshua Tree NP,Turtle Rock Circuit,"Ann, Rebecca, Marty, Noah",
+OID-292,Discount Dyno,V0,10,Spectator,injured,12-5-2021,n,TID-060,Joshua Tree NP,Turtle Rock Circuit,"Ann, Rebecca, Marty, Noah",
+OID-293,Turnbuckle,V1+,12,Spectator,injured,12-5-2021,n,TID-060,Joshua Tree NP,Turtle Rock Circuit,"Ann, Rebecca, Marty, Noah",
+OID-294,Turnbuckle Arete,V-easy,12,Spectator,injured,12-5-2021,n,TID-060,Joshua Tree NP,Turtle Rock Circuit,"Ann, Rebecca, Marty, Noah",
+OID-295,Fade,V3,11,Spectator,injured,12-5-2021,n,TID-060,Joshua Tree NP,Turtle Rock Circuit,"Ann, Rebecca, Marty, Noah",
+OID-296,Tilt-O-Meter Center,V1,8,Boulder,send,1-1-2022,y,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily","First overhang, very happy about this"
+OID-297,Tilt-O-Meter Center,V1,10,Boulder,send,1-1-2022,y,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-298,False Hueco,V1,11,Boulder,attempt,1-1-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily, Manny, Thor, Brian",
+OID-299,False Hueco Traverse,V2,15,Boulder,attempt,1-1-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily, Manny, Thor, Brian",
+OID-300,Power of the Rock Rat,V-easy,10,Boulder,send,1-2-2022,y,TID-061,Joshua Tree NP,Turtle Rock Circuit,"Ann, Emily",Very happy to come back for this and get it!
+OID-301,Discount Dyno,V0,10,Boulder,attempt,1-2-2022,n,TID-061,Joshua Tree NP,Turtle Rock Circuit,"Ann, Emily",
+OID-302,False Hueco,V1,11,Boulder,attempt,1-2-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-303,False Hueco Traverse,V2,15,Boulder,attempt,1-2-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-304,Mr. Hyde,V0-,10,Boulder,send,1-2-2022,y,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-305,Trout Chow,V0-,10,Boulder,send,1-2-2022,y,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-306,Chuckawalla,V1,15,Boulder,attempt,1-2-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-307,West Face Arete,V-easy,9,Boulder,send,1-2-2022,n,TID-061,Joshua Tree NP,Outback Bouldering,"Ann, Emily",
+OID-308,Strange Quotations,V0+,18,Boulder,send,1-15-2022,y,TID-062,Happy Boulders,Tom Peter's Slab Area,"Ann, Emily, Noah",
+OID-309,Monkey Hang,V3,12,Boulder,attempt,1-15-2022,n,TID-062,Happy Boulders,Slow Dance/Gleaner Area,"Ann, Emily, Noah",
+OID-310,Run With Me,V2,14,Boulder,attempt,1-15-2022,n,TID-062,Happy Boulders,Slow Dance/Gleaner Area,"Ann, Emily, Noah",Getting about halfway up
+OID-311,Happy Hooker,V0+,10,Boulder,send,1-15-2022,y,TID-062,Happy Boulders,"More Water, Less Power","Ann, Emily, Noah",
+OID-312,Problem D,V0,12,Boulder,send,1-16-2022,y,TID-062,Buttermilks,Ranger Rock,"Ann, Emily, Noah, Tim, Sam",
+OID-313,Problem A,V3,15,Boulder,send,1-16-2022,y,TID-062,Buttermilks,Ranger Rock,"Ann, Emily, Noah, Rebecca, Marty",Woo!!! Bishop V3!!!
+OID-314,Sheepherder,V2,18,Boulder,attempt,1-16-2022,n,TID-062,Buttermilks,The Loaf,"Ann, Emily, Noah, Rebecca, Marty",
+OID-315,Hero Roof,V0,14,Boulder,send,1-16-2022,y,TID-062,Buttermilks,Iron Man Area,"Ann, Emily, Noah",
+OID-316,Jolly Beggar,V0-,15,Boulder,send,1-17-2022,y,TID-062,Happy Boulders,Central Happiness,"Ann, Emily, Noah",
+OID-317,Solarium,V4,15,Boulder,attempt,1-17-2022,n,TID-062,Happy Boulders,Central Happiness,"Ann, Emily, Noah, Tim, Sam","Making it about halfway, gotta work on crimp strength, extension strength, core strength, etc"
+OID-318,Nitwit,V0,13,Boulder,send,1-29-2022,y,TID-063,Joshua Tree NP,JBMF Boulders,"Ann, Gavin, Thor, Manny",
+OID-319,Yabo Roof,V3,8,Boulder,attempt,1-29-2022,n,TID-063,Joshua Tree NP,JBMF Boulders,"Ann, Gavin, Thor, Manny",
+OID-320,Yardarm,V1,13,Boulder,attempt,1-29-2022,n,TID-063,Joshua Tree NP,JBMF Boulders,"Ann, Gavin, Thor, Manny",I am very close but I am very short!
+OID-321,Slick Willie,V2,14,Boulder,attempt,1-29-2022,n,TID-063,Joshua Tree NP,JBMF Boulders,"Ann, Gavin, Thor, Manny","Nice fun start, but a little slippery to get good traction on it"
+OID-322,Flintlock Dyno,V0,10,Boulder,attempt,1-29-2022,n,TID-063,Joshua Tree NP,Outback Bouldering,"Ann, Gavin, Thor, Manny",
+OID-323,Chuckawalla,V1,15,Boulder,send,1-29-2022,y,TID-063,Joshua Tree NP,Outback Bouldering,"Ann, Gavin, Thor, Manny",Very happy to have returned for the revenge send!!!
+OID-324,Right of Crack,V2,19,Boulder,Send,2-19-2022,y,TID-064,Kraft Boulders,Monkey Bar Boulder,"Ann, Kandi, Amber, Robbie",
+OID-325,Monkey Crack,V1,12,Boulder,Send,2-19-2022,y,TID-064,Kraft Boulders,Monkey Bar Boulder,"Ann, Kandi, Amber, Robbie",
+OID-326,Monkey Crack,V2,12,Boulder,Send,2-19-2022,y,TID-064,Kraft Boulders,Monkey Bar Boulder,"Ann, Kandi, Amber, Robbie",
+OID-327,Center Face,V2-3,12,Boulder,Send,2-19-2022,y,TID-064,Kraft Boulders,Monkey Bar Boulder,"Ann, Kandi, Amber, Robbie",There is a very low sit start that might make it more of a hard V3
+OID-328,Monkey Bar,V2,20,Boulder,Send,2-19-2022,y,TID-064,Kraft Boulders,Monkey Bar Boulder,"Ann, Kandi, Amber, Robbie, Alex Chung, JD, Tim",
+OID-329,Heart and Sole Left,V2,15,Boulder,Send,2-20-2022,y,TID-064,Kraft Boulders,West Cluster,Ann,"After staying at the Trump hotel, we were invigorated and ready to send. Also this climb is fantastic, techy, beautiful movement and trust in tension"
+OID-330,Heart and Sole,V2,15,Boulder,send,2-20-2022,y,TID-064,Kraft Boulders,West Cluster,"Ann, Vegas Manny+Friend",
+OID-331,Right Traverse,V1,10,Boulder,Send,2-20-2022,y,TID-064,Kraft Boulders,West Cluster,Ann,
+OID-332,Arete Right,V2,10,Boulder,Send,2-20-2022,y,TID-064,Kraft Boulders,West Cluster,Ann,
+OID-333,Sorange,V3,15,Boulder,attempt,2-20-2022,n,TID-064,Kraft Boulders,West Cluster,Ann,Gave this many goes but many parts of this climb was difficult for me
